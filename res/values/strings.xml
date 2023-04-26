@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Registration App</string>
+    <string name="firstName">E.g. Oliver</string>
+    <string name="lastName">E.g. Evans</string>
+    <string name="studentID">E.g. 22034651</string>
+    <string name="school">E.g. SOI, SOH, etc.</string>
+    <string name="diploma">E.g. Diploma in Digital Design and Development</string>
+    <string name="email">E.g. oliver_d_evans2434@gmail.com</string>
+    <string name="phone">E.g. 9123 7645</string>
+</resources>
